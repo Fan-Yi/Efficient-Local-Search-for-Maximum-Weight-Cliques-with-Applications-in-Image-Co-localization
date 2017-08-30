@@ -20,13 +20,13 @@
 //#define reset_mode
 #define clique_hash_mode
 
-//#define local_optimum_revisit_restart_mode
-#define first_improved_revisit_restart_mode
+#define local_optimum_revisit_restart_mode
+//#define first_improved_revisit_restart_mode
 
-#define rand_drop_mode
+//#define rand_drop_mode
 
 //#define vertex_stamp_queue_mode
-#define random_construction_mode
+//#define random_construction_mode
 
 //#define debug_mode
 
